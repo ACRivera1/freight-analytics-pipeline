@@ -1,0 +1,8 @@
+delay_code,delay_category,delay_description,carrier_controllable
+D001,Weather,Severe weather event,False
+D002,Mechanical,Vehicle breakdown or failure,True
+D003,Traffic,Road congestion or accident,False
+D004,Driver,Driver hours of service limit,True
+D005,Customs,Port or border inspection,False
+D006,Loading,Shipper loading delay,True
+D007,On Time,No delay,False

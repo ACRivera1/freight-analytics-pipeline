@@ -1,0 +1,16 @@
+city_id,city_name,state_code,region
+CTY001,Houston,TX,South
+CTY002,Chicago,IL,Midwest
+CTY003,Savannah,GA,Southeast
+CTY004,Los Angeles,CA,West
+CTY005,Columbus,OH,Midwest
+CTY006,Dallas,TX,South
+CTY007,Memphis,TN,Southeast
+CTY008,Louisville,KY,Midwest
+CTY009,Atlanta,GA,Southeast
+CTY010,Charlotte,NC,Southeast
+CTY011,Phoenix,AZ,West
+CTY012,Denver,CO,West
+CTY013,Kansas City,MO,Midwest
+CTY014,Nashville,TN,Southeast
+CTY015,Jacksonville,FL,Southeast

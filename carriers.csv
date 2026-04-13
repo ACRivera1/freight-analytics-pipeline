@@ -1,0 +1,11 @@
+carrier_id,carrier_name,carrier_type,hq_state,contract_rate_per_mile
+C001,FedEx Freight,Asset-Based,TN,3.2
+C002,Old Dominion Freight Line,Asset-Based,VA,3.05
+C003,Estes Express Lines,Asset-Based,VA,2.9
+C004,XPO Freight,Asset-Based,CT,2.95
+C005,ABF Freight,Asset-Based,AR,2.75
+C006,Saia LTL Freight,Asset-Based,GA,2.8
+C007,R+L Carriers,Asset-Based,OH,2.7
+C008,TForce Freight,Asset-Based,VA,2.65
+C009,Southeastern Freight Lines,Asset-Based,SC,2.6
+C010,Dayton Freight Lines,Asset-Based,OH,2.55
