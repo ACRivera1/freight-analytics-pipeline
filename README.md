@@ -1,4 +1,4 @@
-## Freight Delay & Cost Analytics Pipeline
+# Freight Delay & Cost Analytics Pipeline
 
 **Live Dashboard:** https://public.tableau.com/app/profile/angel.rivera1436/viz/Freight-Delay-Cost-Analytics/Dashboard1
 
@@ -39,10 +39,8 @@ Raw CSVs → AWS S3 (Bronze) → Snowflake Silver (cleaned + joined)
 
 ## Dashboard Views
 1. **Carrier On-Time Performance** — all 10 LTL carriers ranked by on-time %
-2. **Delay Responsibility Breakdown** — controllable vs uncontrollable delays
-   with average reference line
-3. **Fuel Price vs Freight Cost** — scatter plot with trend line showing
-   correlation between diesel prices and freight costs
+2. **Delay Responsibility Breakdown** — controllable vs uncontrollable delays with average reference line
+3. **Fuel Price vs Freight Cost** — scatter plot with trend line showing correlation between diesel prices and freight costs
 4. **Monthly Delay Trend by Region** — dual-axis line chart across 4 regions
 
 ## Key Findings
@@ -55,5 +53,4 @@ Raw CSVs → AWS S3 (Bronze) → Snowflake Silver (cleaned + joined)
 Built to demonstrate end-to-end data analytics skills for logistics and
 supply chain analyst roles. Domain knowledge informed by 10+ years of
 hands-on experience in CDL driving, owner-operator container hauling
-at the Port of Savannah, and freight operations.freight-analytics-pipeline
-Freight Delay &amp; Cost Analytics Pipeline
+at the Port of Savannah, and freight operations.
